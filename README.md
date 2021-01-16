@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <!-- ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff) -->
 <!-- ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white) -->
 <!--![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)-->
-<!-- ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white) -->
+![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white)
 
 <h4><b><samp>Tools and Platform</samp></b></h4>
 
@@ -79,10 +79,10 @@ Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=
 <h4><b><samp>Connect with me:</samp></b></h4>
 
 [![Contact](https://img.shields.io/badge/eunitwap@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:eunitwap@gmail.com)
-[![Twitter](https://img.shields.io/badge/@eunit99-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/eunit99)
-[![LinkedIn](https://img.shields.io/badge/Emmanuel_Uchenna-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eunit99)
-[![Facebook](https://img.shields.io/badge/Eunit99-0077b5?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/eunit99)
-[![CodePen](https://img.shields.io/badge/Emmanuel_Uchenna-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/eunit99)
+[![Twitter](https://img.shields.io/badge/@agik_dev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/eunit99)
+[![LinkedIn](https://img.shields.io/badge/Agbaeze_Emmanuel-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eunit99)
+[![Facebook](https://img.shields.io/badge/Agik-0077b5?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/eunit99)
+[![CodePen](https://img.shields.io/badge/Agbaeze_Emmanuel-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/eunit99)
 <!-- [![Stack Overflow](https://img.shields.io/badge/Emmanuel_Uchenna-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/922425/eunit99) -->
 <!-- [![Dev](https://img.shields.io/badge/@eunit99?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/eunit99) -->
 <!-- [![Medium](https://img.shields.io/badge/@eunit99?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eunit99) -->
