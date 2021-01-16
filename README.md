@@ -1,10 +1,9 @@
-# Hi 👋 I'm Eunit99 ( *Emmanuel* *Uchenna* )
+# Hi 👋 I'm Buyikunmi( *Emmanuel* *Agbaeze* )
 
 
-<img src="https://raw.githubusercontent.com/Eunit99/eunit99/master/eunit99.jpg" alt="Eunit99 on Github">
+
 
 I am Emmanuel Uchenna, freelance ``python developer`` | ``web developer`` | ``UX designer`` | ``frontend developer``
-| ``graphic designer``
 
 I am a seasoned frontend web developer. **HTML5**, **CSS3**, **JavaScript**, **jQuery**, **VueJS**, and **ReactJS** are
 my web development tools. I am familiar with responsive design techniques, approaching all projects with a mobile-first
@@ -14,7 +13,6 @@ I love creating websites and also programming. This is all my motivation pushing
 disciplines such as: UX design, UI design, frontend development, I think these are just the titles for companies. For me
 it is the path for turning ideas into live applications.
 <!--
-**Eunit99/eunit99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -42,12 +40,12 @@ Here are some ideas to get you started:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![ReactJS](https://img.shields.io/badge/ReactJS-47c5fb?style=flat-square&logo=React&logoColor=white)
 <!-- ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white) -->
 <!-- ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff) -->
 <!-- ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white) -->
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) -->
 <!--![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)-->
 <!-- ![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white) -->
 
