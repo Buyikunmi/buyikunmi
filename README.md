@@ -3,9 +3,9 @@
 
 
 
-I am Emmanuel Uchenna, freelance ``python developer`` | ``web developer`` | ``UX designer`` | ``frontend developer``
+I am Emmanuel Uchenna, freelance ``python developer`` | ``Fullstack developer`` | ``UX designer`` 
 
-I am a seasoned frontend web developer. **HTML5**, **CSS3**, **JavaScript**, **jQuery**, **VueJS**, and **ReactJS** are
+I am a seasoned frontend web developer. **HTML5**, **CSS3**, **JavaScript**, **jQuery**, **ExpressJS**, and **ReactJS** are
 my web development tools. I am familiar with responsive design techniques, approaching all projects with a mobile-first
 view, ensuring that what I produce will look great regardless of the type of device it is being viewed on.
 
@@ -67,9 +67,9 @@ Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
   <br>
   <p align="center"> <img align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunit99&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=buyikunmi&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" />
     <img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=eunit99&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" />
+      src="https://github-readme-stats.vercel.app/api?username=buyikunmi&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" />
   </p>
 </details>
 
