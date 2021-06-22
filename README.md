@@ -3,12 +3,12 @@
 
 
 
-I am Emmanuel Uchenna, freelance ``python developer`` | ``Fullstack developer`` | ``UX designer`` 
+I am Emmanuel Agbaeze, freelance ``python developer`` | ``Fullstack developer`` | ``UX designer`` 
 
-I am a seasoned frontend web developer. **HTML5**, **CSS3**, **JavaScript**, **jQuery**, **ExpressJS**, and **ReactJS** are
+<!-- I am a seasoned frontend web developer. **Next.js**, **SCSS**, **JavaScript**, **jQuery**, **ExpressJS**, and **ReactJS** are
 my web development tools. I am familiar with responsive design techniques, approaching all projects with a mobile-first
 view, ensuring that what I produce will look great regardless of the type of device it is being viewed on.
-
+ -->
 I love creating websites and also programming. This is all my motivation pushing me to improve my skills in multiple
 disciplines such as: UX design, UI design, frontend development, I think these are just the titles for companies. For me
 it is the path for turning ideas into live applications.
@@ -38,19 +38,20 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![ReactJS](https://img.shields.io/badge/ReactJS-47c5fb?style=flat-square&logo=React&logoColor=white)
-<!-- ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white) -->
-<!-- ![Java](https://img.shields.io/badge/Java-ea2d2f?style=flat-square&logo=java&logoColor=ffffff) -->
-<!-- ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white) -->
-<!--![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)-->
-![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white)
+
+
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 <h4><b><samp>Tools and Platform</samp></b></h4>
 
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Github
@@ -59,7 +60,7 @@ Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&lo
 Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Microsoft
 Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
-
+![Nodejs](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=white)
 ##
 
 
