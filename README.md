@@ -29,18 +29,9 @@ Here are some ideas to get you started:
 
 <h4><b><samp>Frameworks and Languages</samp></b></h4>
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs/reactjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 
 
-
-![AdobeXD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-450135?style=flat-square&logo=Adobe%20XD&logoColor=FF61F6)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
@@ -79,15 +70,10 @@ Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=
 
 <h4><b><samp>Connect with me:</samp></b></h4>
 
-[![Contact](https://img.shields.io/badge/eunitwap@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:eunitwap@gmail.com)
-[![Twitter](https://img.shields.io/badge/@agik_dev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/eunit99)
-[![LinkedIn](https://img.shields.io/badge/Agbaeze_Emmanuel-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eunit99)
-[![Facebook](https://img.shields.io/badge/Agik-0077b5?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/eunit99)
-[![CodePen](https://img.shields.io/badge/Agbaeze_Emmanuel-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/eunit99)
-<!-- [![Stack Overflow](https://img.shields.io/badge/Emmanuel_Uchenna-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/922425/eunit99) -->
-<!-- [![Dev](https://img.shields.io/badge/@eunit99?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/eunit99) -->
-<!-- [![Medium](https://img.shields.io/badge/@eunit99?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@eunit99) -->
-<!--  -->
-<!-- <a href="https://stackexchange.com/users/922425/eunit99"><img src="https://stackexchange.com/users/flair/922425/eunit99.png?theme=dark" width="208" height="58" alt="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Emmanuel Uchenna on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
+[![Contact](https://img.shields.io/badge/agbaezeemmanuel@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:agbaezeemmanuel@gmail.com)
+[![Twitter](https://img.shields.io/badge/@agik404-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/agik404)
+[![Facebook](https://img.shields.io/badge/Emmanuel%20Agbaeze-0077b5?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/agik2007)
+[![CodePen](https://img.shields.io/badge/Agik-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/agik)
 
-![](https://visitor-badge.glitch.me/badge?page_id=eunit99)
+
+![](https://visitor-badge.glitch.me/badge?page_id=buyikunmi)
