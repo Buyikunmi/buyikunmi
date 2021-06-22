@@ -3,7 +3,7 @@
 
 
 
-I am Emmanuel Agbaeze, freelance ``python developer`` | ``Fullstack developer`` | ``UX designer`` 
+I am Emmanuel Agbaeze,    ``Fullstack developer`` | ``UX designer`` 
 
 <!-- I am a seasoned frontend web developer. **Next.js**, **SCSS**, **JavaScript**, **jQuery**, **ExpressJS**, and **ReactJS** are
 my web development tools. I am familiar with responsive design techniques, approaching all projects with a mobile-first
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
