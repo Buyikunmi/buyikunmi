@@ -3,7 +3,7 @@
 
 
 
-I am Emmanuel Agbaeze,    ``Fullstack developer`` | ``UX designer`` 
+I am Emmanuel Agbaeze, a Fullstack developer(MERN stack)  and Product designer 
 
 <!-- I am a seasoned frontend web developer. **Next.js**, **SCSS**, **JavaScript**, **jQuery**, **ExpressJS**, and **ReactJS** are
 my web development tools. I am familiar with responsive design techniques, approaching all projects with a mobile-first
