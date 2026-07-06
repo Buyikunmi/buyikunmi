@@ -71,7 +71,7 @@ Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=
 <h4><b><samp>Connect with me:</samp></b></h4>
 
 [![Contact](https://img.shields.io/badge/agbaezeemmanuel@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:agbaezeemmanuel@gmail.com)
-[![Twitter](https://img.shields.io/badge/@agik404-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/heyagik)
+[![Twitter](https://img.shields.io/badge/@heyagik-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/heyagik)
 [![Facebook](https://img.shields.io/badge/Emmanuel%20Agbaeze-0077b5?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/agik2007)
 [![CodePen](https://img.shields.io/badge/Agik-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/agik)
 
